@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dthjeb51vpecg"
+path="res://.godot/imported/electricity-pole.obj-d7eb8daaf695e7dabcf2ada5d35a9d83.mesh"
+
+[deps]
+
+files=["res://.godot/imported/electricity-pole.obj-d7eb8daaf695e7dabcf2ada5d35a9d83.mesh"]
+
+source_file="res://assets/Kenney/kenney_city-kit-roads/Models/OBJ format/electricity-pole.obj"
+dest_files=["res://.godot/imported/electricity-pole.obj-d7eb8daaf695e7dabcf2ada5d35a9d83.mesh", "res://.godot/imported/electricity-pole.obj-d7eb8daaf695e7dabcf2ada5d35a9d83.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

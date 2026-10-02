@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bp4dutjxi3plo"
+path="res://.godot/imported/mushroom_tan.obj-6b36583e055175e602b75f5c8c863828.mesh"
+
+[deps]
+
+files=["res://.godot/imported/mushroom_tan.obj-6b36583e055175e602b75f5c8c863828.mesh"]
+
+source_file="res://assets/Kenney/kenney_nature-kit/Models/OBJ format/mushroom_tan.obj"
+dest_files=["res://.godot/imported/mushroom_tan.obj-6b36583e055175e602b75f5c8c863828.mesh", "res://.godot/imported/mushroom_tan.obj-6b36583e055175e602b75f5c8c863828.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false
